@@ -5,7 +5,7 @@ metadata:
   name: practice
   region: eu-north-1
 
-  managedNodeGroups:
+managedNodeGroups:
     - name: ng-1
       desiredCapacity: 1
       spot: true
