@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: practice
-  region: eu-east-1
+  region: es-east-1
 
 managedNodeGroups:
     - name: ng-1
